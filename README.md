@@ -13,8 +13,10 @@ Di aplikasi nanoMuse: **Skills → paste link folder/file di bawah → Fetch.**
 | montase | https://github.com/Yuki26tool/nano-skills/tree/main/montase | Naskah Shorts + edit ffmpeg di HP |
 | osint | https://github.com/Yuki26tool/nano-skills/tree/main/osint | Open-source intelligence, riset terverifikasi |
 | ghostwriter | https://github.com/Yuki26tool/nano-skills/tree/main/ghostwriter | Tulis natural, nol pola AI |
+| motion | https://github.com/Yuki26tool/nano-skills/tree/main/motion | Scene HTML+GSAP vertikal siap render |
+| hemat-token | https://github.com/Yuki26tool/nano-skills/tree/main/hemat-token | Disiplin token, output maksimal |
 
-Atau panggil langsung di chat: `/bedah-kode`, `/montase`, `/osint`, `/ghostwriter`.
+Atau panggil langsung di chat: `/bedah-kode`, `/montase`, `/osint`, `/ghostwriter`, `/motion`, `/hemat-token`.
 
 ## Lisensi
 
